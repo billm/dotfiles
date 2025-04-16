@@ -1,0 +1,5 @@
+# Use 1password for SSH agent
+export SSH_AUTH_SOCK=~/.1password/agent.sock
+
+# Use vim as visual editor!
+export VISUAL=vim
