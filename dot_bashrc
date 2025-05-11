@@ -29,3 +29,8 @@ export SSH_AUTH_SOCK=~/.1password/agent.sock
 
 # Use vim as visual editor!
 export VISUAL=vim
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/var/home/billm/.lmstudio/bin"
+# End of LM Studio CLI section
+
