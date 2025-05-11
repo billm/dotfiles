@@ -1,0 +1,4 @@
+# Check for LM Studio install then add to path
+if [ -x /var/home/billm/.lmstudio/bin/lms ]; then
+  export PATH="/var/home/billm/.lmstudio/bin:${PATH}"
+fi
